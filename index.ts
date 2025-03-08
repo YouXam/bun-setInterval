@@ -1,1 +1,1 @@
-setInterval(() => console.log("Hello via Bun!"), 10 * 60 * 1000);
+setInterval(() => console.log(new Date()), 10 * 60 * 1000);
